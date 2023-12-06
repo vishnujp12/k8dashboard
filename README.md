@@ -1,6 +1,6 @@
 # k8dashboard
 
-### current config is set to run on node port 32000, kubectl proxy if running on cluster IP ####
+### current config is set to run on node port 32000, use kubectl proxy if running on cluster IP ####
 
 run files in the order shown below.
 
