@@ -4,8 +4,8 @@
 
 run files in the order shown below.
 
-1.  k8dashboard.yaml
-2.  metricserver.yaml
+1.  metricserver.yaml
+2.  k8dashboard.yaml
 3.  k8dashboard-sa.yaml
 4.  k8dashboardclusterrolebinding.yaml
 5.  generate_token.txt
