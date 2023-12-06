@@ -1,5 +1,7 @@
 # k8dashboard
 
+### current config is set to run on node port 32000, kubectl proxy if running on cluster IP ####
+
 run files in the order shown below.
 
 1.  k8dashboard.yaml
